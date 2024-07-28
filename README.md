@@ -1,3 +1,4 @@
 # Impala-Motors
-E-commerce plartform made using Django
+online Auto spares
+E-commerce plartform made using php
 
